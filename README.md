@@ -1,6 +1,6 @@
-Project name: Hospital Billing System
+#Project name: Hospital Billing System
 
-List of features:
+#List of features:
 
 Authentication:
 • Register
