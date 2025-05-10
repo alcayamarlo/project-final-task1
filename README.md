@@ -2,7 +2,7 @@
 
 #List of features:
 
-Authentication:
+#Authentication:
 • Register
 • Login
 • Logout
